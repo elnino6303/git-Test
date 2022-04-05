@@ -1,6 +1,10 @@
 ## 설치파일
 참고 : https://velog.io/@ywoosang/Node.js-설치
 
+# nodejs 설치
+    url : https://nodejs.org/ko/download/
+
+    $ curl -sL https://nodejs.org/dist/v16.14.2/node-v16.14.2-linux-x64.tar.gz
 # CURL 설치
     $ sudo apt-get install -y curl
 
